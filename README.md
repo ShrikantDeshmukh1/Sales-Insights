@@ -1,6 +1,6 @@
 # Data-Analysis Project
 
-## Domain MS Excel
+## Domain Excel | Power BI
 
 ### Project Overview
 ---
@@ -18,7 +18,7 @@ This data analysis project is aims to provides insights into sales performance o
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
 ### Tools:
-Microsoft Excel
+Microsoft Excel, Power BI
 
 ### Data Cleaning/Preparation
 -----
