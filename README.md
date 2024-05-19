@@ -1,6 +1,6 @@
 # Data-Analysis Project
 
-## Domain Excel | Power BI
+## Domain - Excel | Power BI
 
 ### Project Overview
 ---
