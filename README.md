@@ -1,6 +1,8 @@
 # Data-Analysis Project
 
-## Domain - Excel | Power BI
+## Domain - Retail
+
+### Technologies: Excel | Power BI
 
 ### Project Overview
 ---
