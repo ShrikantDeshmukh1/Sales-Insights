@@ -1,8 +1,8 @@
 # Vrinda Store Sales-Analysis
 
-### Domain - Retail
-### Technologies: Excel | Power BI
-### Type: ETL, Data Cleaning Exploratory Data Analysis, Data Visualization
+### Domain: Retail
+### Tools: Excel | Power BI
+### Type:  ETL, Data Cleaning Exploratory Data Analysis, Data Visualization
 
 ### Project Overview
 ---
