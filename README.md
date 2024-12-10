@@ -2,14 +2,17 @@
 
 ### Domain: Retail
 ### Tools: Excel | Power BI
-### Type:  ETL, Data Cleaning Exploratory Data Analysis, Data Visualization
-
-### Project Overview
+### Type:   ETL, Data Cleaning Exploratory Data Analysis, Data Visualization
+### * [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2U1YThjNjYtZDJiOS00ZTdjLWE1N2YtNWVmODY5OTJiY2JjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) *
 ---
-This data analysis project is aims to provides insights into sales performance of e-commerce store over the year 2022. By analysing various aspects of the sales data, sw seek to identify trends, make data driven recommendation and gain deeper understanding of store's performance
+## Project Overview
+In this project, we explored the multifaceted data of Vrinda Store and created an annual sales report for 2022. Through meticulous analysis, we understand the various aspects of customers, order patterns, product/category performance. The ultimate goal was to leverage these insights to drive strategic decisions and empower the sales team to optimize business operations effectively.
+---
+## Objective
+- Customer 
 
 
-### Dashboard
+## Dashboard
 ---
 
 ![Screenshot 2024-03-26 165200](https://github.com/Shri997/Data-Analysis/assets/113888363/625434b7-2d71-45af-a772-640d9ad33f8b)
@@ -19,8 +22,6 @@ This data analysis project is aims to provides insights into sales performance o
 ### Data Source
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
-### Tools:
-Microsoft Excel, Power BI
 
 ### Data Cleaning/Preparation
 -----
