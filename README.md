@@ -17,16 +17,17 @@ In this project, we explored the multifaceted data of Vrinda Store and created a
 ---
 
 - ## Data Source
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+[Dataset](https://github.com/ShrikantDeshmukh1/Sales-Insights/blob/main/Dataset.csv) : The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
 
 ### Data Cleaning/Preparation
 -----
 
 In the initial data preparation phase, we performed the following tasks:
-1. Data loading and inspection.
+1. Performed ETL.
 2. Handling missing values.
-3. Data cleaning and formatting.
+3. Data cleaning and formatting
+4. Calculate DAX measures.
 
 ### Exploratory Data Analysis
 ---
@@ -44,9 +45,9 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Results/ Findings
   ---
-1. Women buys more compared to Men, around (65%).
+1. Women buys more compared to Men, around (64%).
 2. Maharashtra, Karnataka and Utter Pradesh are the top 3 states contributing to the sales.
-3. Adult age group (25-49 years) contributes more than other age groups, around (50%).
+3. Adult age group (25-50 years) contributes more than other age groups, around (50%).
 4. Amazon, Flipkart and Myntra channels are max contributers.
 5. In Category, Set (39.91%) and Kurta(33.65%) are most sold items.
 6. From beginning of year 2022, sales increased till march. And started dropping afterwards.
