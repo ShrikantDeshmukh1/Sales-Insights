@@ -1,4 +1,4 @@
-# Data-Analysis Project
+# Vrinda Store Sales-Analysis Project
 
 ## Domain - Retail
 
