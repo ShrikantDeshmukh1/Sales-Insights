@@ -5,7 +5,7 @@
 ### Type:   ETL, Data Cleaning Exploratory Data Analysis, Data Visualization
 ### * [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2U1YThjNjYtZDJiOS00ZTdjLWE1N2YtNWVmODY5OTJiY2JjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) *
 ---
-## Project Overview
+### Project Overview
 In this project, we explored the multifaceted data of Vrinda Store and created an annual sales report for 2022. Through meticulous analysis, we understand the various aspects of customers, order patterns, product/category performance. The ultimate goal was to leverage these insights to drive strategic decisions and empower the sales team to optimize business operations effectively.
 ---
 ## Objective
