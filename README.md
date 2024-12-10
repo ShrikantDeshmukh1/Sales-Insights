@@ -1,4 +1,4 @@
-# Vrinda Store Sales-Analysis Project
+# Vrinda Store Sales-Analysis
 
 ## Domain - Retail
 
