@@ -45,16 +45,16 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Results/ Findings
   ---
-1. Women buys more compared to Men, around (64%).
+1. Women buys more compared to Men, around (69%).
 2. Maharashtra, Karnataka and Utter Pradesh are the top 3 states contributing to the sales.
-3. Adult age group (25-50 years) contributes more than other age groups, around (50%).
-4. Amazon, Flipkart and Myntra channels are max contributers.
+3. Adult age group (25-50 years) contributes more than other age groups, around (60%).
+4. Amazon, Flipkart and Myntra channels are max contributers with total Market Share of 80%.
 5. In Category, Set (39.91%) and Kurta(33.65%) are most sold items.
 6. From beginning of year 2022, sales increased till march. And started dropping afterwards.
 
 ### Recommendation
 ---
-Target Women customers of age group (25-49 years) living in Maharashtra, Karnataka and Utter Pradesh
+Target Women customers of age group (25-50 years) living in Maharashtra, Karnataka and Utter Pradesh
  by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
      
 
