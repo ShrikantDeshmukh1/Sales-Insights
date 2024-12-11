@@ -10,6 +10,7 @@ In this project, we explored the multifaceted data of Vrinda Store and created a
 
 - ## Dashboard
 ---
+![Dashboard](https://github.com/user-attachments/assets/d8dea579-4dec-4e96-8a3f-c791176cb30e)
 
 
 
