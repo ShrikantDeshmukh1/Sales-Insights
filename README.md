@@ -6,13 +6,7 @@
 - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGQ0Y2U5NjUtMTFhNy00ODUyLTkxOGUtMmMxNWI0NGE1ZTU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 - ### Project Overview
-In this project, we explored the multifaceted data of Vrinda Store and created an annual sales report for 2022. Through meticulous analysis, we understand the various aspects of customers, order patterns, product/category performance. The ultimate goal was to leverage these insights to drive strategic decisions and empower the sales team to optimize business operations effectively.
-
-- ## Dashboard
----
-![Dashboard](https://github.com/user-attachments/assets/d8dea579-4dec-4e96-8a3f-c791176cb30e)
-
-
+Vrinda Store is a reputed clothing store, operating in all over india mostly via different e-commerce platforms like Amazon, Flipkart, Myntra etc. In this project, we explored the multifaceted data of Vrinda Store and created an annual sales report for 2022. Through meticulous analysis, we understand the various aspects of customers, order patterns, product/category performance. The ultimate goal is to leverage these insights to drive strategic decisions and empower the sales team to optimize business operations effectively.
 
 
 ---
@@ -30,7 +24,7 @@ In the initial data preparation phase, we performed the following tasks:
 3. Data cleaning and formatting
 4. Calculate DAX measures.
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 ---
 
 EDA involved exploring the sales data to answer key questions, such as:
@@ -44,18 +38,23 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Which channel contributing to most sales?
 - Which is highest selling category?
 
-### Results/ Findings
+- ## Dashboard
+---
+![Dashboard](https://github.com/user-attachments/assets/a93a2fee-411c-49c8-804e-e3044a44c4ea)
+
+
+## Results/ Findings
   ---
 1. Women buys more compared to Men, around (69%).
 2. Maharashtra, Karnataka and Utter Pradesh are the top 3 states contributing to the sales.
 3. Adult age group (25-50 years) contributes more than other age groups, around (60%).
-4. Amazon, Flipkart and Myntra channels are max contributers with total Market Share of 80%.
+4. Amazon, Flipkart and Myntra channels are maximum contributers to sales with total Market Share of 80%.
 5. In Category, Set (39.91%) and Kurta(33.65%) are most sold items.
 6. From beginning of year 2022, sales increased till march. And started dropping afterwards.
 
-### Recommendation
+## Recommendation
 ---
-Target Women customers of age group (25-50 years) living in Maharashtra, Karnataka and Utter Pradesh
+Target Female customers of age group (25-50 years) living in Maharashtra, Karnataka and Utter Pradesh
  by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
      
 
