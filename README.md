@@ -3,7 +3,7 @@
 - Domain: Retail
 - Tools: Excel, Power BI
 - Type:   ETL, Data Cleaning Exploratory Data Analysis, Data Visualization
-- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGQ0Y2U5NjUtMTFhNy00ODUyLTkxOGUtMmMxNWI0NGE1ZTU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjVkMGJhYTYtYjc4Yi00ZDJhLWFjZGMtNTY2ZGE0NWMzNzg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 - ### Project Overview
 Vrinda Store is a reputed clothing store, operating in all over india mostly via different e-commerce platforms like Amazon, Flipkart, Myntra etc. In this project, we explored the multifaceted data of Vrinda Store and created an annual sales report for 2022. Through meticulous analysis, we understand the various aspects of customers, order patterns, product/category performance. The ultimate goal is to leverage these insights to drive strategic decisions and empower the sales team to optimize business operations effectively.
